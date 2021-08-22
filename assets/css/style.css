@@ -72,7 +72,7 @@ I copied what was in the "Float Left" class into the image tag for
 both the Search Engine Optimization image and the Social Media Marketing image tags.
 */
 
-.search-engine-optimization h2 {
+.services h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
@@ -100,6 +100,7 @@ a {
     margin-right: 20px;
     padding: 20px;
     float: right;
+    height: 100%;
     width: 20%;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
@@ -110,17 +111,7 @@ a {
     color: #ffffff;
 }
 
-.benefit-lead h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-
-.benefit-brand h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-
-.benefit-cost h3 {
+.benefit-card h3 {
     margin-bottom: 10px;
     text-align: center;
 }
@@ -150,31 +141,20 @@ a {
     color: #ffffff;
 }
 
-
-
 .social-media-marketing img {
     max-height: 200px;
     float: left;
     margin-right: 25px;
 }
 
-.online-reputation-management h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
 
-.social-media-marketing h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-.footer {
+footer {
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
 
-.footer h4 {
+footer h4 {
     font-size: 20px;
 }
