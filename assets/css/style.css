@@ -67,11 +67,6 @@ header ul li {
     margin-right: 25px;
 }
 
-/* Eliminated the "float left" class. 
-I copied what was in the "Float Left" class into the image tag for 
-both the Search Engine Optimization image and the Social Media Marketing image tags.
-*/
-
 .services h2 {
     margin-bottom: 20px;
     font-size: 36px;
@@ -80,10 +75,6 @@ both the Search Engine Optimization image and the Social Media Marketing image t
 p {
     font-size: 16px;
 }
-/* Eliminated the "float right" class. 
-I copied what was in the "Float Right" class into the image tag for 
-Online Reputation Management
-*/
 
 .online-reputation-management img {
     max-height: 200px;
@@ -146,7 +137,6 @@ a {
     float: left;
     margin-right: 25px;
 }
-
 
 footer {
     padding: 30px;
