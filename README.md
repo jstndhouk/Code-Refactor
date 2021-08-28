@@ -26,7 +26,7 @@ THEN I find a concise, descriptive title
 
 
 ## Description
-This webpage containsa title and navigation bar at the top, followed by three sections labeled with the services provided by Horiseon.  On the right panel, there is some data regarding the benefits of the services.
+This website provides an aesthetic display of what services and benefits Horiseon has to offer. This webpage contains title and navigation bar at the top, followed by three sections labeled with the services provided by Horiseon.  On the right panel, there is some data regarding the benefits of the services.  The footer gives credit to the design of the page.  
 
 ## Screenshot
 ![Image output](./assets/images/snip1.PNG)
